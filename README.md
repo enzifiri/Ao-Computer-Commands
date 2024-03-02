@@ -1,10 +1,12 @@
 ## Özel gruba girme
+```
 Private = "jg2Duezl68c8lHU5RiV8kHZrZ-7MJSVyyfQDhz5nJqQ"
 Join("Private", "Nickiniz")
+```
 
 ## Trinity ID
 
-Trinity = "3sstqnaao6IiLXlLgFkLVsnpKYId1Fk-jtwS0fB52L8"
+```Trinity = "3sstqnaao6IiLXlLgFkLVsnpKYId1Fk-jtwS0fB52L8"```
 
 ## bot.lua
 ```
@@ -14,8 +16,11 @@ Send({Target = Game, Action = "Register"})
 ```
 
 ## oyun mesajını görme
-Inbox[#Inbox].Data
+``` Inbox[#Inbox].Data ```
 
 ## Oda Listeleme
+```
 List()
-Join("chatName"[, "yourNickname"])`! You can leave chats with `Leave("name")`.
+Join("chatName"[, "yourNickname"])`
+`Leave("name")`.
+```
