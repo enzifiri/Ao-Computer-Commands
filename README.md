@@ -15,3 +15,7 @@ Send({Target = Game, Action = "Register"})
 
 ## oyun mesajını görme
 Inbox[#Inbox].Data
+
+## Oda Listeleme
+List()
+Join("chatName"[, "yourNickname"])`! You can leave chats with `Leave("name")`.
