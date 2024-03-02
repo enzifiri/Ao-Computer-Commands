@@ -12,3 +12,6 @@ Game = "X2h8i714oihtN-nbjmBH0ACnvPm5Qwnql6bAK2Kh9yM"
 Send({Target = Game, Action = "RequestTokens"})
 Send({Target = Game, Action = "Register"})
 ```
+
+## oyun mesajını görme
+Inbox[#Inbox].Data
